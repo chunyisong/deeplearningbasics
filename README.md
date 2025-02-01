@@ -49,15 +49,3 @@
         * [5-token 分类](./docs/深度学习应用/自然语言处理任务/5-token_classification-词_符号_token级别分类任务.md)
     * [计算机视觉]()
         * [1-Vit和自监督学习](./docs/深度学习应用/计算机视觉任务/1-Vision%20Transformer使用和facebook自监督学习DINO训练方法.md)
-
-
-
-
-> 我的知乎是[多多笔记](http://www.zhihu.com/people/nai-ping-46-76)
-> 
-> 可以添加这个微信号联系我：bit_pku_eecs，备注：交流，可以帮拉入transformer、NLP、深度学习的交流群进行讨论。
-> 
-> 也欢迎关注公众号：![公众号](./docs/resources/AI部落联盟.jpg)
-
-
-
