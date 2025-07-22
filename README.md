@@ -47,5 +47,5 @@
         * [3-机器问答](./docs/深度学习应用/自然语言处理任务/3-question_answering-机器问答.md)
         * [4-摘要生成](./docs/深度学习应用/自然语言处理任务/4-summarization-摘要生成.md)
         * [5-token 分类](./docs/深度学习应用/自然语言处理任务/5-token_classification-词_符号_token级别分类任务.md)
-    * [计算机视觉]()
+    * [计算机视觉](./docs/深度学习应用/计算机视觉任务/前言.md)
         * [1-Vit和自监督学习](./docs/深度学习应用/计算机视觉任务/1-Vision%20Transformer使用和facebook自监督学习DINO训练方法.md)
